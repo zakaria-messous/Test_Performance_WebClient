@@ -5,6 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="acd7bdd1-0bb4-437d-8ebc-5d6636dd4032" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../Test_Performance_FeignClient/client-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Test_Performance_FeignClient/client-service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Test_Performance_FeignClient/client-service/src/main/java/com/example/client_service/ClientServiceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Test_Performance_FeignClient/client-service/src/main/java/com/example/client_service/ClientServiceApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Test_Performance_FeignClient/client-service/src/main/java/com/example/client_service/controller/ClientController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Test_Performance_FeignClient/client-service/src/main/java/com/example/client_service/controller/ClientController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Test_Performance_FeignClient/client-service/src/main/java/com/example/client_service/dto/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Test_Performance_FeignClient/client-service/src/main/java/com/example/client_service/feign/CarFeignClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Test_Performance_FeignClient/client-service/src/main/java/com/example/client_service/service/ClientService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Test_Performance_FeignClient/client-service/src/main/java/com/example/client_service/service/ClientService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Test_Performance_FeignClient/client-service/target/classes/com/example/client_service/ClientServiceApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Test_Performance_FeignClient/client-service/target/classes/com/example/client_service/ClientServiceApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Test_Performance_FeignClient/client-service/target/classes/com/example/client_service/controller/ClientController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Test_Performance_FeignClient/client-service/target/classes/com/example/client_service/controller/ClientController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Test_Performance_FeignClient/client-service/target/classes/com/example/client_service/dto/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Test_Performance_FeignClient/client-service/target/classes/com/example/client_service/feign/CarFeignClient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Test_Performance_FeignClient/client-service/target/classes/com/example/client_service/service/ClientService.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Test_Performance_FeignClient/client-service/target/classes/com/example/client_service/service/ClientService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Test_Performance_FeignClient/eureka-server/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Test_Performance_FeignClient/eureka-server/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Test_Performance_FeignClient/eureka-server/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Test_Performance_FeignClient/eureka-server/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -21,12 +35,12 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../Test_Performance_FeignClient" />
   </component>
-  <component name="KubernetesApiPersistence"><![CDATA[{}]]></component>
-  <component name="KubernetesApiProvider"><![CDATA[{
-  "isMigrated": true
-}]]></component>
+  <component name="KubernetesApiPersistence">{}</component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -37,9 +51,9 @@
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="2" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2rDuCPKznsNPMyoPFw3ZC00PwUQ" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -60,7 +74,7 @@
     "Spring Boot.EurekaServerApplication.executor": "Run",
     "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Zaki/Bureau/Test_Performance_FeignClient/client-service",
+    "last_opened_file_path": "C:/Users/Zaki/Bureau/Test_Performance_WebClient",
     "node.js.detected.package.eslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
@@ -128,6 +142,8 @@
       <option name="presentableId" value="Default" />
       <updated>1736105838388</updated>
       <workItem from="1736105839463" duration="1162000" />
+      <workItem from="1736164289089" duration="96000" />
+      <workItem from="1736164406302" duration="66000" />
     </task>
     <servers />
   </component>
